@@ -1,1 +1,2 @@
 # CS110
+Students learn fundamental programming concepts, programming environment topics and current technologies in computing. Programming concepts include structure and design using pseudo-code, basic syntax, variables, arithmetic, decisions, repetition, input and output. Programming environment topics include editor use, saving, compiling, running and debugging. Programming projects are required.
